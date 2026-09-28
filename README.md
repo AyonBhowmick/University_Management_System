@@ -71,13 +71,11 @@ new ImageIcon("icons/bird.png");
 - If the app can't find data or images, check these paths first.
 
 ## Screenshots
-| Login | Home |
+| Welcome | Login |
 |---|---|
-| ![Login](SS/2.png) | ![Home](SS/3.png) |
-| **Dashboard** | **Welcome** |
-| ![Dashboard](SS/4.png) | ![Welcome](SS/Capture.png) |
-
-> If your screenshots are `.jpg`, change the extensions above to match.
+| ![Welcome](SS/Capture.JPG) | ![Login](SS/2.JPG) |
+| **Home** | **About** |
+| ![Home](SS/3.JPG) | ![About](SS/4.JPG) |
 
 ## Tech stack
 Java · Swing (GUI) · File I/O
